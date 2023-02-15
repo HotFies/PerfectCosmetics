@@ -1,0 +1,9 @@
+name: PerfectCosmetics
+version: '${project.version}'
+main: org.aneras.mc.perfectcosmetics.PerfectCosmetics
+api-version: 1.16
+authors: [ Aneras ]
+commands:
+  perfectCosmetics:
+    usage:
+      -/perfectcosmetics head/body/offhand
